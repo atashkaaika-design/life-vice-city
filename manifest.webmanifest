@@ -1,0 +1,9 @@
+{
+  "name": "LIFE: VICE CITY",
+  "short_name": "VICE CITY",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1724",
+  "theme_color": "#101827",
+  "description": "Your life. Your city. Your story."
+}
